@@ -1,1 +1,1 @@
-A Restauramt landing page - coded in React..
+# A Restauramt landing page - coded in React
